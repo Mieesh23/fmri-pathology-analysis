@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-## 🔍 Key Findings & Insights from the Thesis
+## Key Findings & Insights from the Thesis
 
 This thesis evaluated multiple machine-learning models (XGB, Random Forest, SVC) and feature approaches (functional connectivity, graph-based metrics, activated features) for detecting depression while explicitly examining the impact of data leakage on model performance.
 
@@ -56,4 +55,3 @@ Progress in this area will depend on close collaboration between **psychology**,
 =======
 # fmri-pathology-analysis
 Classification of neurological pathologies from rs-fMRI using connectivity analysis, graph metrics and machine learning models.
->>>>>>> 597152cdb3c1e60e734f6875c909a6751b7a054b
