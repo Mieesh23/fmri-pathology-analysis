@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+networkx
+nilearn
+nibabel
+igraph
+community
